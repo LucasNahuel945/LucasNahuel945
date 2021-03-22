@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there! <img src="https://raw.githubusercontent.com/LucasNahuel945/LucasNahuel945/main/wave.gif" width="30px">
+
 
 🧔 I'm **Lucas Sandoval**, from Buenos Aires, Argentinia 🇦🇷🧉. I'm a web developer mainly based on javascript technologies such as React, Node, Mongo and MERN stack basically.
 
