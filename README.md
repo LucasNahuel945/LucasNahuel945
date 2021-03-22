@@ -1,14 +1,12 @@
 ### Hi there 👋 I'm Lucas Sandoval
 
 ## FullStack Developer
----
 
-I'm a web developer mainly based on javascript technologies such as React or Node.
+I'm a Argentinian :argentina:🧉  web developer mainly based on javascript technologies such as React or Node.
 
 I work with [ArchLinux](https://archlinux.org/) as my main operating system whit this [dotfiles](https://github.com/LucasNahuel945/dotfiles) config.
 
 
----
 Thanks for see my profile, feel free to see my work and collaborate with it if you want.
 
 <!--
