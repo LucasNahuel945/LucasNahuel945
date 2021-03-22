@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Lucas Sandoval
+
+## FullStack Developer
+---
+
+I'm a web developer mainly based on javascript technologies such as React or Node.
+
+I work with [ArchLinux](https://archlinux.org/) as my main operating system whit this [dotfiles](https://github.com/LucasNahuel945/dotfiles) config.
+
+
+---
+Thanks for see my profile, feel free to see my work and collaborate with it if you want.
 
 <!--
 **LucasNahuel945/LucasNahuel945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
