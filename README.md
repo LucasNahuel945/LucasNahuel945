@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-🧔 I'm **Lucas Sandoval**, from Buenos Aires, Argentinian 🇦🇷🧉. I'm a web developer mainly based on javascript technologies such as React, Node, Mongo and MERN stack basically.
+🧔 I'm **Lucas Sandoval**, from Buenos Aires, Argentinia 🇦🇷🧉. I'm a web developer mainly based on javascript technologies such as React, Node, Mongo and MERN stack basically.
 
 💻 I work with [ArchLinux](https://archlinux.org/) as my main operating system whit this [dotfiles](https://github.com/LucasNahuel945/dotfiles) config.
 
