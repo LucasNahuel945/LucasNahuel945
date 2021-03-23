@@ -8,12 +8,12 @@ Thanks for see my profile 🙂 feel free to see my work and collaborate with it 
 ``` js
 const Me = {
   pronouns: 'He', Him,
-  code: ['Javascript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
+  code: ['Javascript', 'Typescript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
   askMeAbout: ['web development', 'electronic', 'football', 'chess'],
   technologies: {
     css: ['felxbox', 'Boostrap', 'Bulma', 'Sass'],
     javascript: ['ES6', 'React', 'Node', 'Express'],
-    databases: ['MySQL', 'MariaDB', 'MongoDB', 'Mongoose', 'Sequalize'],
+    databases: ['MySQL', 'MariaDB', 'MongoDB', 'Mongoose', 'Sequalize', 'TypeORM'],
   },
   languages: ['Spanish', 'English'],
   OS: 'ArchLinux'
