@@ -7,7 +7,7 @@ Thanks for see my profile 🙂 feel free to see my work and collaborate with it 
 
 ``` js
 const Me = {
-  pronouns: 'He', Him,
+  pronouns: 'He', 'Him',
   code: ['Javascript', 'Typescript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
   askMeAbout: ['web development', 'electronic', 'football', 'chess'],
   technologies: {
