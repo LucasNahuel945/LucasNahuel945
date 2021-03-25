@@ -3,7 +3,6 @@
 
 🧔 I'm <strong>Lucas Sandoval</strong>, from Buenos Aires, Argentinia 🇦🇷🧉. I'm a web developer mainly based on javascript technologies such as React, Node, Mongo and MERN stack basically.<br>
 💻 I work with [ArchLinux](https://archlinux.org/) as my main operating system whit this [dotfiles](https://github.com/LucasNahuel945/dotfiles) config.<br>
-Thanks for see my profile 🙂 feel free to see my work and collaborate with it if you want. <br>
 
 ``` js
 const Me = {
@@ -19,4 +18,5 @@ const Me = {
   OS: 'ArchLinux'
 }
 ```
-![lucasnahuel945](https://github-readme-stats.vercel.app/api?username=lucasnahuel945)
+
+Thanks for see my profile 🙂 feel free to see my work and collaborate with it if you want. <br>
