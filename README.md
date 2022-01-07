@@ -7,7 +7,7 @@
 ``` js
 const Me = {
   pronouns: 'He', 'Him',
-  code: ['Javascript', 'Typescript', 'Python', 'Java', 'Bash', 'HTML', 'CSS'],
+  code: ['Javascript', 'Typescript', 'Python', 'Java', 'C#', 'Bash', 'HTML', 'CSS'],
   askMeAbout: ['web development', 'electronic', 'football', 'chess'],
   technologies: {
     css: ['felxbox', 'Boostrap', 'Bulma', 'Sass'],
