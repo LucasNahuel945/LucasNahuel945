@@ -7,10 +7,10 @@
 ``` js
 const Me = {
   pronouns: 'He', 'Him',
-  code: ['Javascript', 'Typescript', 'Python', 'Java', 'C#', 'Bash', 'HTML', 'CSS'],
+  code: ['Javascript', 'Typescript', 'Python', 'C#', 'HTML', 'CSS'],
   askMeAbout: ['web development', 'electronic', 'football', 'chess'],
   technologies: {
-    css: ['felxbox', 'Boostrap', 'Bulma', 'Sass'],
+    css: ['Tailwind', 'Boostrap', 'Bulma', 'Sass'],
     javascript: ['ES6', 'React', 'Node', 'Express'],
     databases: ['MySQL', 'MariaDB', 'MongoDB', 'Mongoose', 'Sequalize', 'TypeORM'],
   },
